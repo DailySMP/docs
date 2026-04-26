@@ -96,7 +96,8 @@
   "errors": {
     "404": {
       "title": "Chunk niet gevonden",
-      "description": "Deze chunk is nog niet geladen… of misschien is hij verdwenen in de void. Probeer terug te teleporteren naar de spawn!"
+      "description": "Deze chunk is nog niet geladen… of misschien is hij verdwenen in de void. Probeer terug te teleporteren naar de spawn!",
+      "redirect": false
     }
   }
 }
