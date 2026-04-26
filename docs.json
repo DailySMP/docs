@@ -41,6 +41,7 @@
             "groups": [
               {
                 "group": "Staff introductie",
+                "icon": "swords",
                 "pages": [
                   "welkom-in-het-staff-team",
                   "hierarchie-van-het-staffteam"
