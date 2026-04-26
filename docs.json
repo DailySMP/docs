@@ -8,21 +8,38 @@
     "dark": "#00A6FF"
   },
   "navigation": {
-    "tabs": [
+    "languages": [
       {
-        "tab": "Guides",
-        "groups": [
+        "language": "nl",
+        "tabs": [
           {
-            "group": "Welkom",
-            "pages": [
-              "welkom-bij-daily-smp",
-              "de-discord-servers-van-daily-smp",
-              "de-regels-van-de-server"
+            "tab": "Documentatie",
+            "groups": [
+              {
+                "group": "Welkom",
+                "pages": [
+                  "welkom-bij-daily-smp",
+                  "de-discord-servers-van-daily-smp",
+                  "de-regels-van-de-server"
+                ]
+              },
+              {
+                "group": "Ticket richtlijnen",
+                "pages": []
+              }
             ]
           },
           {
-            "group": "Ticket richtlijnen",
-            "pages": []
+            "tab": "Staff",
+            "hidden": true,
+            "groups": [
+              {
+                "group": "Staff introductie",
+                "pages": [
+                  "welkom-in-het-staff-team"
+                ]
+              }
+            ]
           }
         ]
       }
@@ -57,7 +74,6 @@
      "vscode"
    ]
   },
-  "logo": "/images/Layer1.png",
   "appearance": {
     "default": "light"
   },
@@ -67,5 +83,6 @@
   "interaction": {
     "drilldown": false
   },
-  "favicon": "/images/favicon.ico"
+  "favicon": "/images/favicon.ico",
+  "logo": "/images/dsmpdocs.png"
 }
