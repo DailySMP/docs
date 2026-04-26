@@ -1,0 +1,74 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "aspen",
+  "name": "Mintlify Starter Kit",
+  "colors": {
+    "primary": "#00CDFF",
+    "light": "#00CDFF",
+    "dark": "#00A6FF"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Guides",
+        "groups": [
+          {
+            "group": "Welkom",
+            "pages": [
+              "welkom-bij-daily-smp",
+              "de-discord-servers-van-daily-smp",
+              "de-regels-van-de-server"
+            ]
+          },
+          {
+            "group": "Ticket richtlijnen",
+            "pages": []
+          }
+        ]
+      }
+    ]
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Support? Join de Discord!",
+        "href": "https://discord.gg/ed8ex6zTf9"
+      },
+      {
+        "label": "Reversed.GG",
+        "href": "https://reversed.gg/"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Dashboard",
+      "href": "https://dashboard.mintlify.com"
+    }
+  },
+  "contextual": {
+    "options": [
+     "copy",
+     "view",
+     "chatgpt",
+     "claude",
+     "perplexity",
+     "mcp",
+     "cursor",
+     "vscode"
+   ]
+  },
+  "logo": "/images/Layer1.png",
+  "appearance": {
+    "default": "light"
+  },
+  "banner": {
+    "dismissible": true
+  },
+  "icons": {
+    "library": "fontawesome"
+  },
+  "interaction": {
+    "drilldown": false
+  }
+}
