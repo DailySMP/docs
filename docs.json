@@ -26,6 +26,12 @@
               {
                 "group": "Ticket richtlijnen",
                 "pages": []
+              },
+              {
+                "group": "How-To`s",
+                "pages": [
+                  "hoe-join-ik-de-minecraft-server"
+                ]
               }
             ]
           },
@@ -84,5 +90,11 @@
     "drilldown": false
   },
   "favicon": "/images/favicon.ico",
-  "logo": "/images/dsmpdocs.png"
+  "logo": "/images/dsmpdocs.png",
+  "errors": {
+    "404": {
+      "title": "Chunk niet gevonden",
+      "description": "Deze chunk is nog niet geladen… of misschien is hij verdwenen in de void. Probeer terug te teleporteren naar de spawn!"
+    }
+  }
 }
