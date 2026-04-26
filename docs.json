@@ -1,13 +1,12 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "aspen",
-  "name": "Mintlify Starter Kit",
+  "name": "DailySMP",
   "colors": {
     "primary": "#00CDFF",
     "light": "#00CDFF",
     "dark": "#00A6FF"
   },
-  "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
       {
@@ -71,5 +70,6 @@
   },
   "interaction": {
     "drilldown": false
-  }
+  },
+  "favicon": "/images/favicon.ico"
 }
