@@ -63,7 +63,8 @@
     "default": "light"
   },
   "banner": {
-    "dismissible": true
+    "dismissible": true,
+    "content": "false"
   },
   "icons": {
     "library": "fontawesome"
