@@ -20,15 +20,20 @@
                 "pages": [
                   "welkom-bij-daily-smp",
                   "de-discord-servers-van-daily-smp",
-                  "de-regels-van-de-server"
+                  "de-regels-van-de-server",
+                  "definities"
                 ]
               },
               {
                 "group": "Ticket richtlijnen",
-                "pages": []
+                "icon": "tickets",
+                "pages": [
+                  "algemene-richtlijnen"
+                ]
               },
               {
                 "group": "How-To`s",
+                "icon": "comment-question",
                 "pages": [
                   "hoe-join-ik-de-minecraft-server"
                 ]
@@ -45,6 +50,12 @@
                 "pages": [
                   "welkom-in-het-staff-team",
                   "hierarchie-van-het-staffteam"
+                ]
+              },
+              {
+                "group": "Informatie",
+                "pages": [
+                  "richtlijnen-sancties"
                 ]
               }
             ]
