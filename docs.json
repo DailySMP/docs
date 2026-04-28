@@ -21,6 +21,7 @@
                   "welkom-bij-daily-smp",
                   "de-discord-servers-van-daily-smp",
                   "de-regels-van-de-server",
+                  "roleplayrichtlijnen",
                   "definities"
                 ]
               },
@@ -55,7 +56,8 @@
               {
                 "group": "Informatie",
                 "pages": [
-                  "richtlijnen-sancties"
+                  "richtlijnen-sancties",
+                  "staff-commands"
                 ]
               }
             ]
